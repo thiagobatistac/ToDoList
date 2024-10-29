@@ -35,12 +35,12 @@ Enter Date and Time: Input the date and time in the format dd/MM/yyyy HH:mm.
 Add More Tasks: You can choose to add more tasks or display the list.
 View To-Do List: All tasks will be printed on the console.
 
-### Project Structure
+## Project Structure
 Application: Contains the main Program class, where the user interacts with the console to add and view tasks.
 Entities: Contains the Task class, which defines the task properties and formatting.
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Contact
+## Contact
 Created by Thiago Batista Coutinho. Feel free to reach out for any questions or collaboration!
