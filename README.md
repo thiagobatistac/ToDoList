@@ -22,10 +22,10 @@ These instructions will help you set up and run the project on your local machin
    ```bash
    git clone https://github.com/yourusername/todo-list-java.git
 
-2. **Navigate to the project directory:**:
+2. **Navigate to the project directory**:
    cd todo-list-java
 
-3. **Compile and Run::**:
+3. **Compile and Run**:
    javac Application/Program.java
    java Application.Program
 
@@ -44,3 +44,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 Created by Thiago Batista Coutinho. Feel free to reach out for any questions or collaboration!
+
