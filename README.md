@@ -41,8 +41,5 @@ View To-Do List: All tasks will be printed on the console.
 Application: Contains the main Program class, where the user interacts with the console to add and view tasks.
 Entities: Contains the Task class, which defines the task properties and formatting.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 Created by Thiago Batista Coutinho. Feel free to reach out for any questions or collaboration!
